@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Aadith 👋</h1>
 
-<h3 align="center">A passionate developer from <YOUR_LOCATION></h3>
+<h3 align="center">A passionate developer from Bangalore</h3>
 
 <p align="center">
   <!-- Typing SVG for a cool intro -->
